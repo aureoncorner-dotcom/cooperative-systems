@@ -1,23 +1,9 @@
 # Problem
-What recurring problem this pattern addresses.
-
 # When this helps
-Contexts where this pattern is useful.
-
 # When this fails
-Situations where this pattern should NOT be used.
-
 # Core mechanism (plain language)
-The smallest explanation of how it works.
-
 # Failure modes
-How this breaks or drifts if misapplied.
-
 # Fork notes
-What can be changed safely. What should not.
-
-
-
 
 
 # RESONANCE
