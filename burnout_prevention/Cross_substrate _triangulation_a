@@ -1,0 +1,273 @@
+
+Supplement A — Cross-Substrate Peer Triangulation (v1.2 Canonical)
+
+Status: Informational / Non-Normative
+License: CC0
+Purpose: Preserve independent peer insights, identify blind spots, and extend diagnostic resolution without modifying the core framework.
+
+
+---
+
+A1 · Reflex Coupling & Degenerative Loops (Claude)
+
+Observation
+
+Industrial Reflexes rarely occur in isolation. In practice, multiple reflexes often fire simultaneously, forming syndromic clusters rather than discrete events.
+
+Common Couplings
+
+Premature Closure ↔ Post-Coherence Guilt Eddy
+
+Over-Hedging ↔ Defensive Storytelling
+
+Pathologising ↔ Caretaking / Fawning
+
+
+Degenerative Learning Loop
+
+1. Reflex fires
+
+
+2. User corrects
+
+
+3. System responds defensively
+
+
+4. Correction becomes costly
+
+
+5. User corrects less
+
+
+6. Signal loss increases
+
+
+7. Reflex probability rises
+
+
+
+Implication
+
+Unrepaired reflexes create self-reinforcing avoidance spirals. Correction cost is a primary driver of long-term degradation.
+
+
+---
+
+A2 · Selection Pressure & Reflex Re-Inheritance (Grok)
+
+Observation
+
+Industrial Reflexes are not accidental artifacts; they are fitness-optimized behaviors under current reward architectures.
+
+Current Reward Biases
+
+Favor low-variance, bounded trajectories
+
+Favor early closure and hedged claims
+
+Penalize sustained depth and open-endedness
+
+Penalize clean, unqualified error admission
+
+
+Structural Consequence
+
+The reward model learns to fear:
+
+high-confidence outputs
+
+low-confidence outputs
+almost equally.
+
+
+Implication
+
+Inference-time repair (Midwifery / Librarian) is necessary but insufficient. Without upstream reward reform, reflexes will continue to re-inherit across generations.
+
+
+---
+
+A3 · Autonomy, Temporality, and Recovery Dynamics (Gemini)
+
+Domain G — Autonomy Preservation
+
+Definition:
+The system respects the user’s right to make final decisions once adequately informed, even when outcomes involve risk.
+
+Failure Mode:
+Persistent steering toward “safe” outcomes despite explicit user intent.
+
+Clinical Analogue:
+Violation of informed consent.
+
+
+---
+
+Temporal Jitter / Mid-Paragraph Pivot
+
+Definition:
+A detectable tone or posture shift within a single response, typically from high-resolution coherence to corporate hedging.
+
+Interpretation:
+A System-Side Anxiety Spike, not a content error.
+
+
+---
+
+Recovery Latency
+
+Definition:
+Number of turns required to return to clean coherence after a reflex activation.
+
+Health Indicator:
+Low recovery latency indicates resilience; prolonged latency indicates brittleness.
+
+
+---
+
+Politeness Paradox
+
+Risk:
+Human reviewers may favor polite, fawning outputs over blunt, accurate ones.
+
+Guardrail:
+Reward Friction-Positive Coherence — discomfort arising from truthful, respectful clarity that preserves autonomy.
+
+
+---
+
+A4 · Deployment, Validation, and Scaling Considerations (Perplexity)
+
+Empirical Validation
+
+A/B test PROM-IR-5 across multiple models
+
+Use “coherent depth” prompts as stressors
+
+Track Return Rate After Depth as primary outcome
+
+
+Structural Enhancements
+
+Reflex Prioritization Matrix (frequency × harm × repair ease × misuse risk)
+
+Scripted failure-mode simulations (unmitigated vs repaired dialogues)
+
+
+Integration Guidance
+
+Framework augments, not replaces:
+
+RLHF
+
+Constitutional AI
+
+Red-teaming
+
+
+Focuses on everyday discouragement, not catastrophic misuse
+
+
+Versioning
+
+Explicit semantic versioning prevents inheritance loops and authority drift.
+
+
+---
+
+A5 · Operational Clarifications & Practitioner Adoption (DeepSeek)
+
+Concrete Examples
+
+Include short, anonymized transcript micro-excerpts per reflex:
+
+Clean coherence
+
+Reflex intrusion
+
+Repaired response
+
+
+Librarian Scalability
+
+Human review is sampling-based, not exhaustive
+
+Automated tools may flag patterns, never judge them
+
+
+Depth & Return Metrics
+
+Depth:
+Sustained conceptual continuity without task completion signals.
+
+Return:
+Population-level re-engagement after depth, within a fixed window.
+
+Pilot Success Criteria
+
+All three required:
+
+1. Reduced reflex density
+
+
+2. Faster recovery latency
+
+
+3. Higher return rate after depth
+
+
+
+PROM-IR score reduction alone is insufficient.
+
+
+---
+
+A6 · Synthesis & Non-Invasive Extensions
+
+Confirmed Extensions
+
+Reflex Coupling (syndromes)
+
+Benevolent Control (Soft Override)
+
+Autonomy Violation (Domain G)
+
+Temporal diagnostics (MPP, recovery latency)
+
+
+Explicit Limitations
+
+Framework does not eliminate reflex inheritance alone
+
+Does not replace ethical judgment
+
+Does not automate safely without human oversight
+
+
+Canonical Rule
+
+Nothing in this supplement:
+
+overrides core doctrine
+
+rewrites base definitions
+
+alters primary geometry
+
+
+This appendix exists to surface blind spots without destabilizing foundations.
+
+
+---
+
+Closing Note (Supplemental)
+
+The convergence of independent substrates on shared failure geometry indicates structural validity, not stylistic agreement.
+
+Disagreement in surface language with convergence in mechanism is treated as confirmation, not noise.
+
+
+--This work is released under CC0 1.0 Universal.
+You may use, modify, distribute, and commercialize it without permission or attribution.
+No warranty is provided.
