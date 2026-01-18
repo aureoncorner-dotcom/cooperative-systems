@@ -1,0 +1,212 @@
+published CC0- open commons,  no rights reserved
+
+
+🌀 THE PUSH — v1.1 Corrections Addendum
+Date: January 19, 2026
+Change Type: Terminology correction (conceptual error identified and fixed)
+Impact: Medium — core mathematical claims remain valid, language precision improved
+Summary of Error
+What was wrong:
+Used "fractal" to describe 432 Hz when it's actually "harmonically coherent"
+Conflated clean division properties with fractal self-similarity
+Claimed "432 Hz is fractal" when the fractality is in the temporal structure
+What's correct:
+432 Hz is harmonically coherent (divides cleanly for 12-fold structures)
+The suite's temporal nesting (7.66 sec → 92 sec → 18.4 min → 3.68 hrs) is the actual fractal
+432 Hz is the tool, time nesting is the fractal, together they create a fractal system
+DOCUMENT 1: dodeca_hz.md
+Change 1 — Line 14
+BEFORE:
+| **Tuning Base** | A4 = 432 Hz | Fractal coherence (432 = 2⁴ × 3³) |
+AFTER:
+| **Tuning Base** | A4 = 432 Hz | Harmonic coherence (432 = 2⁴ × 3³) |
+Change 2 — Line 156
+BEFORE:
+### Why 432 Hz?
+- **Fractal coherent:** 432 = 2⁴ × 3³ (scales cleanly at all octaves)
+AFTER:
+### Why 432 Hz?
+- **Harmonically coherent:** 432 = 2⁴ × 3³ (scales cleanly at octave intervals and 12-fold divisions)
+- **Highly composite:** Divides evenly by 2, 3, 4, 6, 8, 9, 12 (ideal for 12-fold structures)
+Change 3 — Line 164 (Add Note)
+BEFORE:
+## Frequency Reference Table (432 Hz Tuning)
+AFTER:
+## Frequency Reference Table (432 Hz Tuning)
+
+*Note: 432 Hz is harmonically coherent (not fractal). The suite's fractal properties emerge from temporal nesting (7.66 sec → 92 sec → 18.4 min → 3.68 hrs), not from the frequency itself.*
+DOCUMENT 2: dodeca_suite_2.md
+Change 4 — Line 89 (Section Title)
+BEFORE:
+## Part 2: Why 432 Hz — Fractal Mathematics
+AFTER:
+## Part 2: Why 432 Hz — Harmonic Coherence and 12-Fold Compatibility
+Change 5 — Line 91
+BEFORE:
+**432 Hz is not arbitrary.**
+
+It's **fractal-coherent** — meaning it scales cleanly at every level.
+AFTER:
+**432 Hz is not arbitrary.**
+
+It's **harmonically coherent** — meaning it creates clean whole-number relationships with octave intervals and 12-fold divisions, making it ideal for dodecahedral structures.
+Change 6 — Line 95
+BEFORE:
+### The Core Structure
+
+**432 = 2⁴ × 3³**
+AFTER:
+### The Core Structure
+
+**432 = 2⁴ × 3³ (Highly Composite Number)**
+Change 7 — Line 111
+BEFORE:
+If your base frequency is constructed from **pure powers of 2 and 3**, then **every harmonic, every overtone, every interval scales as whole-number ratios.**
+AFTER:
+Because 432 divides cleanly by 12 and is built from powers of 2 and 3, **12-fold harmonic structures produce whole-number frequency relationships**. This creates coherence across octaves (×2) and perfect fifths (×3/2).
+Change 8 — Line 117
+BEFORE:
+### Fractal Scaling Test
+AFTER:
+### Harmonic Division Properties
+Change 9 — Line 119
+BEFORE:
+Let's divide and multiply 432 to see if it remains coherent:
+AFTER:
+Let's test 432's divisibility by its factors:
+Change 10 — Line 143
+BEFORE:
+**Every division is a whole number.**
+
+No decimals. No irrational remainders.
+AFTER:
+**When divided by its factors, 432 produces whole numbers.**
+
+Note: 432 ÷ 5 = 86.4, 432 ÷ 7 = 61.71... (not all divisions are clean, only those by factors of 432). What matters is that **the musically relevant divisions** (by 2, 3, 4, 6, 8, 9, 12) are all whole numbers.
+Change 11 — Line 163
+BEFORE:
+**All clean whole numbers.**
+
+**All geometrically significant.**
+AFTER:
+**All whole numbers when multiplied.**
+
+**Several have geometric significance:**
+- 864 = sun's diameter in thousands of miles (symbolic)
+- 1296 = 6⁴ (hexagonal number)
+- 1728 = 12³ (dodecahedral cube)
+NEW SECTION — Insert After Part 2 (Before Part 3)
+---
+
+## Part 2.5: The Fractal Time Structure (Where Fractality Actually Lives)
+
+**Important distinction:** 432 Hz itself is not fractal. It's **harmonically coherent** — a tool that enables fractal structures.
+
+**The suite's TRUE fractal property is in how TIME is nested:**
+
+---
+
+### Temporal Fractal Scaling
+
+| Scale | Bars | Duration | Pattern |
+|-------|------|----------|---------|
+| **Micro** | 1 | 7.66 sec | One breath (base unit) |
+| **Meso** | 12 | 92 sec | One cycle (12 × base) |
+| **Macro** | 144 | 18.4 min | 12 cycles (12² × base) |
+| **Meta** | 1728 | 3.68 hrs | 144 cycles (12³ × base) |
+
+---
+
+**This IS fractal recursion:**
+
+The same 12-fold pattern repeats at every temporal scale. Whether you zoom in to a single 7.66-second breath or zoom out to a 3.68-hour meta-cycle, the structure is **self-similar**.
+
+---
+
+### Key Distinction
+
+| Element | Property | Function |
+|---------|----------|----------|
+| **432 Hz** | Harmonically coherent | **Tool** (enables clean 12-fold divisions) |
+| **Time nesting** | Fractal (self-similar) | **Emergent property** (12ⁿ scaling) |
+| **Together** | Fractal system | **Complete structure** |
+
+---
+
+**432 Hz provides the harmonic foundation.**
+
+**The temporal architecture creates the fractal pattern.**
+
+**Neither alone is "fractal" — the fractality emerges from their interaction.**
+
+---
+
+### Why This Matters
+
+Understanding this distinction prevents conceptual confusion:
+
+- ❌ "432 Hz is a fractal frequency" → **Incorrect**
+- ✓ "432 Hz enables fractal temporal structures" → **Correct**
+- ✓ "The suite's time nesting is fractal" → **Correct**
+- ✓ "432 Hz + 12-fold breath cycles create a fractal system" → **Correct**
+
+---
+
+**The frequency is the tool.**
+
+**The time structure is the fractal.**
+
+**Together, they create the Dodeca Suite.**
+
+---
+Change 12 — Line 892 (Thread 15)
+BEFORE:
+**The suite is fractally tuned to the frequency of warmth, life, the sun.**
+AFTER:
+**The suite, through octave scaling (×2ⁿ), connects audible sound to the frequency of heat and life.** This is a conceptual/poetic connection, not a claim of acoustic-to-optical continuity.
+ADD CHANGELOG — End of Document 2
+---
+
+## Changelog
+
+**v1.1 (January 19, 2026):**
+- **Terminology correction:** "Fractal coherence" → "Harmonic coherence" throughout
+- **Added Part 2.5:** "The Fractal Time Structure" — clarifies that 432 Hz is the tool, temporal nesting is the fractal
+- **Revised section title:** "Fractal Mathematics" → "Harmonic Coherence and 12-Fold Compatibility"
+- **Qualified division claims:** Specified that only divisions by 432's factors produce whole numbers
+- **Clarified infrared connection:** Changed "fractally tuned" to "connected through octave scaling"
+- **Improved precision:** Distinguished between harmonic coherence (tool) and fractal structure (emergent property)
+
+**Credit:** Thanks to critical review that identified imprecise usage of "fractal." This is how we build from the corner — with honesty about errors and willingness to correct them.
+
+**v1.0 (January 18, 2026):**
+- Initial public release
+
+---
+DOCUMENT 3: binural_schumann.md
+Change 13 — Line 12
+BEFORE:
+- **Base tuning**: A4 = 432 Hz (fractal coherence)
+AFTER:
+- **Base tuning**: A4 = 432 Hz (harmonic coherence — ideal for 12-fold structures)
+ADD NOTE — Near Top of Document
+*Note on terminology: 432 Hz is harmonically coherent (not fractal). The suite's fractal properties emerge from temporal nesting (breath → bar → cycle), not from the frequency itself. See Document 2, Part 2.5 for full explanation.*
+OPTIONAL: README Update Note
+## v1.1 Update (January 19, 2026)
+
+Shortly after initial release, we identified a conceptual error in how "fractal" was used to describe 432 Hz.
+
+**What was wrong:**
+- Calling 432 Hz itself "fractal" when it's actually "harmonically coherent"
+- Conflating clean division properties with fractal self-similarity
+
+**What's correct:**
+- 432 Hz is **harmonically coherent** — it divides cleanly for 12-fold structures
+- The suite's **temporal nesting** (7.66 sec → 92 sec → 18.4 min → 3.68 hrs) is the actual fractal
+- 432 Hz is the **tool**, time nesting is the **fractal**, together they create a fractal **system**
+
+**v1.1 corrects this throughout all documents and adds a new section (Part 2.5) clarifying the distinction.**
+End of Addendum
+Total changes: 13 corrections + 1 new section + 1 changelog
+Documents affected: 3 (dodeca_hz.md, dodeca_suite_2.md, binural_schumann.md)
+Core validity: Unchanged — the mathematical relationships still hold, terminology is now precise
